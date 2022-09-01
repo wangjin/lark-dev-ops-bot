@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://10.2.13.251:3306/devops_bot?useSSL=false&useUnicode=true&characterEncoding=UTF8&serverTimezone=GMT%2B8
+    username: root
+    password: sms@2021!
+  jpa:
+    hibernate:
+      ddl-auto: update
+    open-in-view: false

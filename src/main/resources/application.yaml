@@ -1,0 +1,9 @@
+lark:
+  app_id: cli_a2e2211bede4d00e
+  app_secret: uSzZ3G3s5zkRIOG8YBqfQcP80CLnIyCL
+  verification_token: k1OevjlOwcYZcdvvuI7K3eKKfkYnEtX4
+  encrypt_key:
+  lark_host: https://open.feishu.cn
+spring:
+  profiles:
+    active: dev
